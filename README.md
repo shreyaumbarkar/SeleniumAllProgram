@@ -1,2 +1,2 @@
 # AllSeleniumPrograms
-A collection of daily Java programming practice solutions focused on core Java, data structures, and problem-solving to improve coding skills and prepare for technical interviews.
+A collection of Selenium WebDriver automation programs using Java covering basic to advanced real-time scenarios for QA practice and interview preparation.
